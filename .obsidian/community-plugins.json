@@ -2,5 +2,6 @@
   "obsidian-annotator",
   "obsidian-local-images",
   "oz-clear-unused-images",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "obsidian-git"
 ]
