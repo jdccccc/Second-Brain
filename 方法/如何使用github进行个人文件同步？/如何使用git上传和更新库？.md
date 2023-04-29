@@ -145,7 +145,8 @@ git remote -v
    ```bash
    git push origin master -f
    ```
-
+  本指令可在初次提交仓库时解决下列问题，请保证使用此命令时仓库中没有有价值文件。
+![[Pasted image 20230429180513.png]]
    
 
 # 分支

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab1463c70fb2b66e",
+        "id": "5ce458e161ff64a9",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc2eed7be297d4f",
+            "id": "6d58b31a199340eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方法/如何使用github进行个人文件同步/如何使用github进行个人文件同步？.md",
+                "file": "方法/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方法/如何使用github进行个人文件同步/如何使用github进行个人文件同步？.md",
+                "file": "方法/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方法/如何使用github进行个人文件同步/如何使用github进行个人文件同步？.md",
+                "file": "方法/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方法/如何使用github进行个人文件同步/如何使用github进行个人文件同步？.md"
+                "file": "方法/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md"
               }
             }
           }
@@ -149,12 +149,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4dc2eed7be297d4f",
+  "active": "6d58b31a199340eb",
   "lastOpenFiles": [
-    "方法/如何使用github进行个人文件同步/如何使用git上传和更新库？.md",
-    "方法/如何使用github进行个人文件同步/如何使用github进行个人文件同步？.md",
+    "README.md",
+    "如何在obsidian中画图？.md",
+    "方法/如何使用github进行个人文件同步？/如何使用github进行个人文件同步？.md",
+    "方法/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md",
+    "方法/如何使用github进行个人文件同步？/attachments/Pasted image 20230429180513.png",
+    "方法/如何使用github进行个人文件同步？/attachments",
     "方法/如何使用github进行个人文件同步/如何删除github的main分支？.md",
-    "方法/如何使用github进行个人文件同步",
+    "方法/如何使用github进行个人文件同步？",
     "博文/Git 提示 Permission denied (publickey)，如何才能解决？.md",
     "博文/解决使用 Git 时报错 bash： $'-302-226git'： command not found.md",
     "博文/Obsidian 的高级玩法 _ 打造能跳转到任何格式文件的笔记 - 掘金.md",
@@ -176,7 +180,6 @@
     "归档/知识库/计算机/软件工程",
     "归档/知识库/计算机/计算机系统结构/Picture/Pasted image 20220511170017.png",
     "归档/知识库/计算机/计算机系统结构/Picture/Pasted image 20220511165534.png",
-    "归档/知识库/计算机/计算机系统结构/Picture/Pasted image 20220511163959.png",
     "归档/知识库/计算机/计算机系统结构/Picture",
     "归档/知识库/计算机/计算机系统结构/指令系统的设计.md",
     "归档/知识库/计算机/计算机系统结构/指令级并行.md",
@@ -192,10 +195,8 @@
     "归档/知识库/计算机/操作系统/作业管理/用户与操作系统的接口.md",
     "归档/知识库/计算机/操作系统/作业管理/系统调用.md",
     "归档/知识库/计算机/操作系统/作业管理/批处理系统的作业管理.md",
-    "归档/知识库/计算机/操作系统/作业管理/程序级接口.md",
     "归档/知识库/计算机/操作系统/作业管理",
     "归档/知识库/计算机/操作系统/文件管理",
-    "归档/知识库/计算机/操作系统/死锁",
     "方法/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
