@@ -5,3 +5,5 @@
 
 2. push更改
 ![[Pasted image 20230429182252.png]]
+![[Pasted image 20230429182343.png]]
+选择本地分支上传给远程仓库
