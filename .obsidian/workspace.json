@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "76148f7b535039c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab1463c70fb2b66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dc2eed7be297d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "方法/如何使用github进行个人文件同步/如何使用github进行个人文件同步？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c6bcbaeaca97153",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1d2132720dcfca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bcec0eb1229196e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "797f56a7aa438e13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff7e4d0abf99aff9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "d4f0163679542e4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "76ad69741fddc7e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "572b6b06d44da9aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "方法/如何使用github进行个人文件同步/如何使用github进行个人文件同步？.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "320a6479d44352b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "方法/如何使用github进行个人文件同步/如何使用github进行个人文件同步？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8612a6a1a079b537",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "560af44857c1a946",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "方法/如何使用github进行个人文件同步/如何使用github进行个人文件同步？.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "4dc2eed7be297d4f",
+  "lastOpenFiles": [
+    "方法/如何使用github进行个人文件同步/如何使用git上传和更新库？.md",
+    "方法/如何使用github进行个人文件同步/如何使用github进行个人文件同步？.md",
+    "方法/如何使用github进行个人文件同步/如何删除github的main分支？.md",
+    "方法/如何使用github进行个人文件同步",
+    "博文/Git 提示 Permission denied (publickey)，如何才能解决？.md",
+    "博文/解决使用 Git 时报错 bash： $'-302-226git'： command not found.md",
+    "博文/Obsidian 的高级玩法 _ 打造能跳转到任何格式文件的笔记 - 掘金.md",
+    "博文/Obsidian + Cubox 实现网页剪藏本地保存 - saamcheung1i - 博客园.md",
+    "博文/github 报错：The file will have its original line endings in your working directory_大扬哥啦啦啦的博客 - CSDN 博客.md",
+    "attachments/image-20220530215500378.png",
+    "attachments/image-20220530214323095.png",
+    "attachments/image-20220530214235336.png",
+    "attachments/image-20220530213840199.png",
+    "attachments/image-20220530211138602.png",
+    "attachments/image-20220530213602990.png",
+    "方法/如何使用WPS完成一篇word格式的本科毕业论文？.md",
+    "attachments/Pasted image 20230429170440.png",
+    "LICENSE",
+    "git 简明指南.pdf",
+    "时记/本科学习生活总结.md",
+    "归档/知识库/数学",
+    "归档/知识库/计算机/软件工程/软件需求.md",
+    "归档/知识库/计算机/软件工程",
+    "归档/知识库/计算机/计算机系统结构/Picture/Pasted image 20220511170017.png",
+    "归档/知识库/计算机/计算机系统结构/Picture/Pasted image 20220511165534.png",
+    "归档/知识库/计算机/计算机系统结构/Picture/Pasted image 20220511163959.png",
+    "归档/知识库/计算机/计算机系统结构/Picture",
+    "归档/知识库/计算机/计算机系统结构/指令系统的设计.md",
+    "归档/知识库/计算机/计算机系统结构/指令级并行.md",
+    "归档/知识库/计算机/计算机系统结构/向量处理机.md",
+    "归档/知识库/计算机/计算机系统结构/流水线技术.md",
+    "归档/知识库/计算机/计算机系统结构/计算机系统结构的基础知识.md",
+    "归档/知识库/计算机/计算机系统结构",
+    "归档/知识库/计算机/操作系统/作业管理/作业级接口.md",
+    "归档/知识库/计算机/操作系统/作业管理/作业管理.md",
+    "归档/知识库/计算机/操作系统/作业管理/作业调度算法.md",
+    "归档/知识库/计算机/操作系统/作业管理/作业的状态及转换.md",
+    "归档/知识库/计算机/操作系统/作业管理/作业的概念.md",
+    "归档/知识库/计算机/操作系统/作业管理/用户与操作系统的接口.md",
+    "归档/知识库/计算机/操作系统/作业管理/系统调用.md",
+    "归档/知识库/计算机/操作系统/作业管理/批处理系统的作业管理.md",
+    "归档/知识库/计算机/操作系统/作业管理/程序级接口.md",
+    "归档/知识库/计算机/操作系统/作业管理",
+    "归档/知识库/计算机/操作系统/文件管理",
+    "归档/知识库/计算机/操作系统/死锁",
+    "方法/如何构建笔记系统？/如何构建笔记系统？.canvas",
+    "方法/如何整理个人物品？/如何整理个人物品？.canvas",
+    "未命名.canvas"
+  ]
+}
