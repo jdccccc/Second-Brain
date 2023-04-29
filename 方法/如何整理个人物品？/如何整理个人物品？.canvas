@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"file","file":"方法/如何整理个人物品？/如何整理个人物品？.md","id":"f078be0e5ce0e938","x":-220,"y":-300,"width":400,"height":460},
+		{"type":"file","file":"方法/如何整理个人物品？/如何整理网络资源？.md","id":"9f76281a830597f0","x":400,"y":200,"width":640,"height":300},
+		{"type":"file","file":"方法/如何整理个人物品？/如何整理百度网盘？.md","id":"73b189f891cd3fd3","x":1340,"y":200,"width":400,"height":330},
+		{"type":"file","file":"方法/如何构建笔记系统？/如何将网页整合到obsidian笔记系统中？.md","id":"acb29d867eb9fe5f","x":400,"y":760,"width":400,"height":400},
+		{"type":"file","file":"方法/如何整理个人物品？/如何整理windows系统的电脑？.md","id":"953c047a56802228","x":-1000,"y":160,"width":400,"height":400},
+		{"type":"file","file":"方法/如何整理个人物品？/如何从用户视角构建windows个人文件系统？.md","id":"b6cb675247e68e23","x":-640,"y":680,"width":400,"height":400},
+		{"type":"file","file":"方法/如何整理个人物品？/如何为windows 进行内存清理？.md","id":"7c65822bf7669e4e","x":-1400,"y":680,"width":400,"height":560},
+		{"type":"file","file":"方法/如何整理个人物品？/如何在windows上卸载deepin双系统？.md","id":"e1c71f147f3fce2c","x":-800,"y":1219,"width":720,"height":380},
+		{"type":"file","file":"清单/网络资源清单.md","id":"01db621bfb85ec2b","x":-220,"y":160,"width":400,"height":400},
+		{"type":"file","file":"方法/如何构建笔记系统？/如何将pdf整合到obsidian笔记系统中？.md","id":"44aeb7f1233c3856","x":800,"y":760,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e856badff1e90f5e","fromNode":"f078be0e5ce0e938","fromSide":"left","toNode":"953c047a56802228","toSide":"top"},
+		{"id":"47b8a6069336be18","fromNode":"953c047a56802228","fromSide":"left","toNode":"7c65822bf7669e4e","toSide":"top"},
+		{"id":"270692473b4c25f3","fromNode":"953c047a56802228","fromSide":"right","toNode":"b6cb675247e68e23","toSide":"top"},
+		{"id":"05c6986070102fde","fromNode":"7c65822bf7669e4e","fromSide":"right","toNode":"e1c71f147f3fce2c","toSide":"left"},
+		{"id":"1893827df155f795","fromNode":"7c65822bf7669e4e","fromSide":"right","toNode":"b6cb675247e68e23","toSide":"left"},
+		{"id":"32448ab52e77b5b6","fromNode":"f078be0e5ce0e938","fromSide":"right","toNode":"9f76281a830597f0","toSide":"top"},
+		{"id":"cb3caf12640e0ef4","fromNode":"9f76281a830597f0","fromSide":"right","toNode":"73b189f891cd3fd3","toSide":"left"},
+		{"id":"30456fcc88e56d8d","fromNode":"9f76281a830597f0","fromSide":"bottom","toNode":"acb29d867eb9fe5f","toSide":"top"},
+		{"id":"091668aacdeeb835","fromNode":"9f76281a830597f0","fromSide":"bottom","toNode":"44aeb7f1233c3856","toSide":"top"},
+		{"id":"9aa30f65d435f239","fromNode":"9f76281a830597f0","fromSide":"left","toNode":"01db621bfb85ec2b","toSide":"right"}
+	]
+}
