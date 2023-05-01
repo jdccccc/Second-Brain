@@ -4,5 +4,6 @@
   "oz-clear-unused-images",
   "obsidian-local-rest-api",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-kanban"
 ]
