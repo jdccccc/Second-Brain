@@ -1,0 +1,1 @@
+aconda 自动加入了命令到 .bashrc 中，在打开终端的时候自动执行了 conda activate base 命令导致的，命令 conda deactivate 可以去掉 (base)

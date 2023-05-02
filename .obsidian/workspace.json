@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c5b6eecbd141210",
+        "id": "f48c2eb8feede368",
         "type": "tabs",
         "children": [
           {
-            "id": "994257d9a92f9c99",
+            "id": "51a385f8bc0df98e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf-annotator",
               "state": {
-                "file": "任务看板.md"
+                "file": "书籍/d2l-zh-pytorch-anno.md"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "任务看板.md",
+                "file": "书籍/d2l-zh-pytorch-anno.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "任务看板.md",
+                "file": "书籍/d2l-zh-pytorch-anno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "任务看板.md"
+                "file": "书籍/d2l-zh-pytorch-anno.md"
               }
             }
           }
@@ -148,14 +148,26 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "994257d9a92f9c99",
+  "active": "51a385f8bc0df98e",
   "lastOpenFiles": [
+    "课程/深度学习-九曲阑干/LEC02-深度学习入门-实验课.md",
+    "书籍/d2l-zh-pytorch-anno.md",
+    "书籍/attachments/d2l-zh-pytorch.pdf",
+    "书籍/《动手学深度学习》注释.md",
+    "课程/深度学习-九曲阑干/LEC01-深度学习入门.md",
+    "任务看板.md",
+    "README.md",
+    "时记/2023-05-01.md",
+    "课程/深度学习-九曲阑干/attachments/Pasted image 20230501170630.png",
+    "课程/深度学习-九曲阑干/attachments/Pasted image 20230501165816.png",
+    "课程/深度学习-九曲阑干/attachments/Pasted image 20230501164656.png",
+    "课程/深度学习-九曲阑干/attachments/Pasted image 20230501164138.png",
+    "博文/终端命令行前出现 (base) 怎么办？_终端前面出现 base_Cyber One-Punch Man 的博客 - CSDN 博客.md",
+    "博文/Linux 系统终端出现（base）怎么解决？.md",
     "清单/键盘账单.md",
     "清单/网络资源清单.md",
     "清单/Linux常用shell命令.md",
     "清单/账单.md",
-    "时记/2023-05-01.md",
-    "任务看板.md",
     "方法/如何构建工作学习流/如何在obsidian中构建任务流？.md",
     "时记/本科学习生活总结.md",
     "时记/2023/2023-04/2023-04-30.md",
@@ -170,24 +182,13 @@
     "attachments/364c8e6ed263affa84d9eee61338b4af.png",
     "attachments/1f7cebd8dd28f664d77cbf0ab228c406.gif",
     "attachments/ad7ebfcb4619f64a41d328b88e0e3a12.png",
-    "attachments/51575f65f6f4c6edfa6c5b97fd16d625.png",
-    "attachments/d64a9a2d6406d2d367dcb505ede69c83.png",
-    "attachments/5df6cd9d967f190df35928e781f9185f.png",
-    "attachments/07e97f372850054958d4961a3787a93f.png",
     "时记/2022/2022-07/2022-07-04.md",
     "时记/2022/2022-07/2022-07-任务流.md",
     "时记/2022/2022-07/2022-07-学习方法.md",
     "时记/2022/2022-07/2022-07-Chrome书签管理方法.md",
     "时记/22年7月考研期间思考/思考方法.md",
     "时记/2022/2022-07/2022-07-考研学习流.md",
-    "时记/2021/2021-如何学习数学？.md",
-    "时记/2021/2021-如何学习一项技术？.md",
-    "时记/2021/2021-工作学习流.md",
     "时记/2021/2021-11",
-    "时记/2021/2021-12/追凶者也-观后感.md",
-    "时记/2021/2021-12/肖申克的救赎-观后感.md",
-    "时记/2021/2021-12/2021-12-16.md",
-    "时记/2021/2021-11/2021-11-29.md",
     "时记/2021/2110",
     "时记/2021/2108",
     "时记/2021/2107",
@@ -195,7 +196,6 @@
     "时记/2021/2105",
     "时记/2021/2021-10",
     "时记/2021/2021-08",
-    "时记/2021/2021-07",
     "方法/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
