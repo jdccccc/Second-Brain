@@ -23,4 +23,4 @@ annotation-target:
 7. 可以将注释或者高亮从其他MD文章中引用	
 	在pdf浏览界面中将高亮部分按住shift拖拽到需要引用的地方
 	按下ctrl键点击引用即可跳转到注释或高亮处
-	
+	- 注意，必须是annotator在stacked table的右侧往左侧拖才能产生引用

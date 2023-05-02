@@ -88,3 +88,4 @@ conda config --set 命令 对于conda进行设置，这里的设置是取消自�
 conda activate env_name
 conda deactive
 ```
+[[如何在anaconda中建立虚拟环境？]]
