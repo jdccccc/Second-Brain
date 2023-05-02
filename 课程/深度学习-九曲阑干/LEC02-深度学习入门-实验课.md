@@ -2,7 +2,7 @@
 
 # Ubuntu20.04下Anaconda的安装
 
-1. Ubuntu20.04 [[如何在VirtualBox上安装Ubuntu20-04？]] 上安装Anaconda （需要一定的Linux基础[[Linux常用shell命令]]）
+1. Ubuntu20.04 [[如何在VirtualBox上安装Ubuntu20-04？]] 上安装Anaconda[[如何在ubuntu20-04上使用anaconda？]] （需要一定的Linux基础[[Linux常用shell命令]]）
 	1. wget命令
 	2. 最新版本的上一个版本
 	
@@ -17,7 +17,7 @@
 3. 启动安装程序，一路点击yes
 	如果shell自动填写no
 	![[Pasted image 20230429202329.png]]
-	则手动输入提示的指令
+	则手动输入提示的指令激活conda命令
 	![[Pasted image 20230429202356.png]]
 
 	![[Linux 系统终端出现（base）怎么解决？]]
@@ -30,7 +30,7 @@
 
 	猜测：第一种方式告诉我，base是conda的一种模式，第二种方式告诉我，conda在.bashrc中加入了自动开启base模式的一条命令，使得每次打开shell时都会自动进入base模式，第三种方式应该是在base模式下不显示base字样，我目前不选择第三种方式，这样的方式可能会让我无法分辨base模式和正常模式
 
-	还有一种方式是输入`source .bashrc`使得.bashrc文件生效，但不需要输入之前提示中的命令，我没有尝试，仅提供一种可能性。
+	还有一种方式是输入`source .bashrc`使得.bashrc文件生效激活conda命令，但不需要输入之前提示中的命令，我没有尝试，仅提供一种可能性。
 
 4. 为anaconda换源
 	使用`conda info`查看channel包管理工具的源

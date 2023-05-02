@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f48c2eb8feede368",
+        "id": "6bda368b278f41db",
         "type": "tabs",
         "children": [
           {
-            "id": "51a385f8bc0df98e",
+            "id": "2780db5b66f238d9",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "书籍/d2l-zh-pytorch-anno.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/d2l-zh-pytorch-anno.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/d2l-zh-pytorch-anno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "书籍/d2l-zh-pytorch-anno.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,54 +142,54 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "51a385f8bc0df98e",
+  "active": "2780db5b66f238d9",
   "lastOpenFiles": [
+    "方法/如何使用Ubuntu20-04/如何在ubuntu20-04上使用anaconda？.md",
+    "方法/如何使用Ubuntu20-04/如何通过bashrc自定义bash？.md",
+    "[.md",
+    "博文/Python/Ubuntu 20_04 安装 Anaconda3 及简单使用_ubuntu20_04 安装 anaconda_气泡水、的博客 - CSDN 博客.md",
+    "博文/Python/conda 与 pip 及 conda 的一些常用操作.md",
+    "博文/Python/终端命令行前出现 (base) 怎么办？_终端前面出现 base_Cyber One-Punch Man 的博客 - CSDN 博客.md",
+    "博文/Python/Linux 系统终端出现（base）怎么解决？.md",
+    "博文/Python",
+    "博文/未命名.md",
+    "博文/git",
+    "方法/如何使用Ubuntu20-04/如何使用shell？.md",
+    "博文/Linux/如何在 Bash Shell Linux 中设置路径？_cunjiu9486 的博客 - CSDN 博客.md",
+    "attachments/d35792966dc64a300b34f4c258c5bc52.png",
+    "attachments/dde93cc84133f44149be7b377a7baf6d.png",
+    "attachments/6c0baea5a98c392061a3d362f924a1de.png",
+    "attachments/3c67cf96369ae58ae58e6f44a4edd1a4.png",
+    "博文/Linux/什么是 _bashrc，为什么要编辑 _bashrc？ _ Linux 中国.md",
+    "博文/Obsidian",
+    "博文/Linux",
+    "博文/Python/Linux 安装 anaconda3 是否初始化的区别_conda init_青山呦的博客 - CSDN 博客.md",
+    "attachments/20200415004420944.png",
+    "attachments/20200415003547156.png",
+    "attachments/20200415004834674.png",
+    "attachments/20200415003639889.png",
+    "attachments/20200415004209382.jpg.png",
+    "attachments/Pasted image 20230502190227.png",
+    "博文/Linux/shell 传递参数方法.pdf",
     "课程/深度学习-九曲阑干/LEC02-深度学习入门-实验课.md",
+    "博文/Linux/【Linux】eval 命令的使用_eval linux_seven_0-0 的博客 - CSDN 博客.md",
+    "方法/如何使用Ubuntu20-04/如何使用shell中的括号？.md",
+    "方法/如何使用Ubuntu20-04",
+    "博文/Linux/linux 中 prompt 是什么 - 常见问题 - PHP 中文网.md",
+    "博文/shell 传递参数 单双引号区别.md",
+    "博文/Linux/shell 中三种引号的用法及区别_shell 双引号里面写 $ 和直接 $ 的区别_Cloud-Future 的博客 - CSDN 博客.md",
+    "README.md",
+    "如何使用eval语句？.md",
     "书籍/d2l-zh-pytorch-anno.md",
+    "清单/Linux常用shell命令.md",
     "书籍/attachments/d2l-zh-pytorch.pdf",
     "书籍/《动手学深度学习》注释.md",
     "课程/深度学习-九曲阑干/LEC01-深度学习入门.md",
     "任务看板.md",
-    "README.md",
     "时记/2023-05-01.md",
-    "课程/深度学习-九曲阑干/attachments/Pasted image 20230501170630.png",
-    "课程/深度学习-九曲阑干/attachments/Pasted image 20230501165816.png",
-    "课程/深度学习-九曲阑干/attachments/Pasted image 20230501164656.png",
-    "课程/深度学习-九曲阑干/attachments/Pasted image 20230501164138.png",
-    "博文/终端命令行前出现 (base) 怎么办？_终端前面出现 base_Cyber One-Punch Man 的博客 - CSDN 博客.md",
-    "博文/Linux 系统终端出现（base）怎么解决？.md",
-    "清单/键盘账单.md",
-    "清单/网络资源清单.md",
-    "清单/Linux常用shell命令.md",
-    "清单/账单.md",
-    "方法/如何构建工作学习流/如何在obsidian中构建任务流？.md",
-    "时记/本科学习生活总结.md",
-    "时记/2023/2023-04/2023-04-30.md",
-    "任务板.md",
     "方法/如何构建工作学习流",
-    "方法/如何构建工作学习流/如何构建工作学习流？.md",
-    "方法/如何构建笔记系统？/如何构建以obsidian为核心的笔记系统？.md",
-    "博文/日常学习工作流 - CS 自学指南.md",
-    "attachments/17554cfdf662d5719ada453674012fdb.gif",
-    "attachments/a7ebb1d3c46702b56bd6d171dfcfc075.png",
-    "attachments/b56994bf9a306830d8b0b8112677d3ec.gif",
-    "attachments/364c8e6ed263affa84d9eee61338b4af.png",
-    "attachments/1f7cebd8dd28f664d77cbf0ab228c406.gif",
-    "attachments/ad7ebfcb4619f64a41d328b88e0e3a12.png",
-    "时记/2022/2022-07/2022-07-04.md",
-    "时记/2022/2022-07/2022-07-任务流.md",
-    "时记/2022/2022-07/2022-07-学习方法.md",
-    "时记/2022/2022-07/2022-07-Chrome书签管理方法.md",
-    "时记/22年7月考研期间思考/思考方法.md",
-    "时记/2022/2022-07/2022-07-考研学习流.md",
     "时记/2021/2021-11",
     "时记/2021/2110",
-    "时记/2021/2108",
-    "时记/2021/2107",
-    "时记/2021/2106",
-    "时记/2021/2105",
-    "时记/2021/2021-10",
-    "时记/2021/2021-08",
     "方法/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
