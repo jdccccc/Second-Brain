@@ -14,7 +14,7 @@
     
     ![](attachments/v2-774239ed43e442899b28f410903b504a_b.jpg.png)
     
-    可以看到
+    可以看到 ^99ebab
     
     1.  当前激活的虚拟环境为 base，也就是最开始安装的 anaconda
         

@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6bda368b278f41db",
+        "id": "f612d9272ae88186",
         "type": "tabs",
         "children": [
           {
-            "id": "88365b89ee6d5855",
+            "id": "b36000a13c935fa4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "书籍/d2l读书笔记/《d2l》环境安装.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bb40a3a219ec6d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "博文/python 包管理之 conda 与 pip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea081ba26a6df474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "如何在anaconda中建立虚拟环境？.md",
-                "mode": "source",
-                "source": false
+                "file": "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md"
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -90,6 +63,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7b12e320b5444327",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -112,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "如何在anaconda中建立虚拟环境？.md",
+                "file": "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "如何在anaconda中建立虚拟环境？.md",
+                "file": "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "如何在anaconda中建立虚拟环境？.md"
+                "file": "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md"
               }
             }
           }
@@ -176,20 +157,29 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "ea081ba26a6df474",
+  "active": "b36000a13c935fa4",
   "lastOpenFiles": [
-    "博文/python 包管理之 conda 与 pip.md",
+    "书籍/d2l读书笔记/《d2l》环境安装.md",
+    "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md",
+    "书籍/d2l读书笔记/attachments/d2l-zh-pytorch.pdf",
+    "方法/如何使用Ubuntu20-04/如何在ubuntu20-04上使用anaconda？.md",
+    "博文/Python/Ubuntu 20_04 安装 Anaconda3 及简单使用_ubuntu20_04 安装 anaconda_气泡水、的博客 - CSDN 博客.md",
+    "博文/Python 深度学习完全路线指南.md",
+    "方法/如何构建笔记系统？/如何构建笔记系统？.excalidraw.md",
+    "时记/2023/2023-05/2023-05-01 1.md",
+    "课程/深度学习-九曲阑干/LEC02-深度学习入门-实验课.md",
+    "方法/如何使用Ubuntu20-04/如何在VirtualBox上安装Ubuntu20-04？.md",
+    "博文/Python/python 包管理之 conda 与 pip.md",
+    "方法/如何使用Ubuntu20-04/如何在anaconda中建立虚拟环境？.md",
+    "attachments/Pasted image 20230502230926.png",
+    "attachments/Pasted image 20230502230755.png",
+    "博文/Python/conda 与 pip 及 conda 的一些常用操作.md",
+    "attachments/Pasted image 20230502224524.png",
     "attachments/v2-774239ed43e442899b28f410903b504a_b.jpg.png",
     "attachments/v2-c76c1d03c0f634a6481fbbb140ec2b5b_b.jpg",
     "attachments/v2-98474604e05cd84480a9ff3e22f1332f_b.jpg",
     "attachments/v2-7555f73abf2de297f848f9b5c1332f3a_b.jpg.png",
     "attachments/v2-a5c53aca1e630a309bb3b2b90f6150c1_b.jpg.png",
-    "如何在anaconda中建立虚拟环境？.md",
-    "方法/如何使用Ubuntu20-04/如何在ubuntu20-04上使用anaconda？.md",
-    "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md",
-    "书籍/d2l读书笔记/《d2l》环境安装.md",
-    "博文/Python/conda 与 pip 及 conda 的一些常用操作.md",
-    "博文/Python/Ubuntu 20_04 安装 Anaconda3 及简单使用_ubuntu20_04 安装 anaconda_气泡水、的博客 - CSDN 博客.md",
     "方法/如何构建笔记系统？/如何将pdf整合到obsidian笔记系统中？.md",
     "课程/计算机体系结构-胡伟武/LEC00_课程介绍.md",
     "书籍/d2l读书笔记",
@@ -204,23 +194,14 @@
     "博文/Linux/如何在 Bash Shell Linux 中设置路径？_cunjiu9486 的博客 - CSDN 博客.md",
     "attachments/d35792966dc64a300b34f4c258c5bc52.png",
     "attachments/dde93cc84133f44149be7b377a7baf6d.png",
-    "attachments/6c0baea5a98c392061a3d362f924a1de.png",
-    "attachments/3c67cf96369ae58ae58e6f44a4edd1a4.png",
     "博文/Linux/什么是 _bashrc，为什么要编辑 _bashrc？ _ Linux 中国.md",
     "博文/Obsidian",
     "博文/Linux",
     "博文/Python/Linux 安装 anaconda3 是否初始化的区别_conda init_青山呦的博客 - CSDN 博客.md",
-    "attachments/20200415004420944.png",
     "博文/Linux/shell 传递参数方法.pdf",
-    "课程/深度学习-九曲阑干/LEC02-深度学习入门-实验课.md",
     "博文/Linux/【Linux】eval 命令的使用_eval linux_seven_0-0 的博客 - CSDN 博客.md",
     "方法/如何使用Ubuntu20-04/如何使用shell中的括号？.md",
     "方法/如何使用Ubuntu20-04",
-    "博文/Linux/linux 中 prompt 是什么 - 常见问题 - PHP 中文网.md",
-    "博文/shell 传递参数 单双引号区别.md",
-    "博文/Linux/shell 中三种引号的用法及区别_shell 双引号里面写 $ 和直接 $ 的区别_Cloud-Future 的博客 - CSDN 博客.md",
-    "README.md",
-    "书籍/d2l读书笔记/attachments/d2l-zh-pytorch.pdf",
     "方法/如何构建工作学习流",
     "时记/2021/2021-11",
     "方法/如何构建笔记系统？/如何构建笔记系统？.canvas",
