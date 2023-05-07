@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f612d9272ae88186",
+        "id": "36f45176630766dd",
         "type": "tabs",
         "children": [
           {
-            "id": "b36000a13c935fa4",
+            "id": "7782177b3057bc52",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md"
+                "file": "方法/如何使用Ubuntu20-04/如何在ubuntu20-04上使用anaconda？.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "d4f0163679542e4f",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md",
+                "file": "方法/如何使用Ubuntu20-04/如何在ubuntu20-04上使用anaconda？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md",
+                "file": "方法/如何使用Ubuntu20-04/如何在ubuntu20-04上使用anaconda？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md"
+                "file": "方法/如何使用Ubuntu20-04/如何在ubuntu20-04上使用anaconda？.md"
               }
             }
           }
@@ -157,18 +158,26 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "b36000a13c935fa4",
+  "active": "7782177b3057bc52",
   "lastOpenFiles": [
-    "书籍/d2l读书笔记/《d2l》环境安装.md",
-    "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md",
-    "书籍/d2l读书笔记/attachments/d2l-zh-pytorch.pdf",
+    "方法/如何使用Ubuntu20-04/如何在VirtualBox上安装Ubuntu20-04？.md",
+    "课程/ANPL-寒武纪/如何连接寒武纪实验室服务器？.md",
+    "课程/ANPL-寒武纪/寒武纪ANPL编程环境搭建.pdf",
     "方法/如何使用Ubuntu20-04/如何在ubuntu20-04上使用anaconda？.md",
+    "课程/ANPL-寒武纪/LEC00_ANPL简介.pdf",
+    "任务看板.md",
+    "课程/ANPL-寒武纪/未确认 853651.crdownload",
+    "课程/ANPL-寒武纪",
+    "书籍/d2l读书笔记/《d2l》引言.md",
+    "书籍/d2l读书笔记/attachments/Pasted image 20230506130018.png",
+    "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md",
+    "书籍/d2l读书笔记/《d2l》环境安装.md",
+    "书籍/d2l读书笔记/attachments/d2l-zh-pytorch.pdf",
     "博文/Python/Ubuntu 20_04 安装 Anaconda3 及简单使用_ubuntu20_04 安装 anaconda_气泡水、的博客 - CSDN 博客.md",
     "博文/Python 深度学习完全路线指南.md",
     "方法/如何构建笔记系统？/如何构建笔记系统？.excalidraw.md",
     "时记/2023/2023-05/2023-05-01 1.md",
     "课程/深度学习-九曲阑干/LEC02-深度学习入门-实验课.md",
-    "方法/如何使用Ubuntu20-04/如何在VirtualBox上安装Ubuntu20-04？.md",
     "博文/Python/python 包管理之 conda 与 pip.md",
     "方法/如何使用Ubuntu20-04/如何在anaconda中建立虚拟环境？.md",
     "attachments/Pasted image 20230502230926.png",
@@ -193,17 +202,9 @@
     "方法/如何使用Ubuntu20-04/如何使用shell？.md",
     "博文/Linux/如何在 Bash Shell Linux 中设置路径？_cunjiu9486 的博客 - CSDN 博客.md",
     "attachments/d35792966dc64a300b34f4c258c5bc52.png",
-    "attachments/dde93cc84133f44149be7b377a7baf6d.png",
     "博文/Linux/什么是 _bashrc，为什么要编辑 _bashrc？ _ Linux 中国.md",
     "博文/Obsidian",
     "博文/Linux",
-    "博文/Python/Linux 安装 anaconda3 是否初始化的区别_conda init_青山呦的博客 - CSDN 博客.md",
-    "博文/Linux/shell 传递参数方法.pdf",
-    "博文/Linux/【Linux】eval 命令的使用_eval linux_seven_0-0 的博客 - CSDN 博客.md",
-    "方法/如何使用Ubuntu20-04/如何使用shell中的括号？.md",
-    "方法/如何使用Ubuntu20-04",
-    "方法/如何构建工作学习流",
-    "时记/2021/2021-11",
     "方法/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
