@@ -1,11 +1,4 @@
----
-title: Cloud-Computing笔记
-date: 2021-07-13 15:59:36
-tags: 云计算
----
-
 # CloudComputing 笔记
-
 # 1 云计算
 
 ## 云计算的特点

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "602a8973831a1d18",
+        "id": "3dbfd76076cfe843",
         "type": "tabs",
         "children": [
           {
-            "id": "cd2a88b88f6b0c8a",
+            "id": "f2e151d45904aeb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "方法/如何学习英语？/如何使用Grammarly学习英语写作？.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "d4f0163679542e4f",
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方法/如何学习英语？/如何使用Grammarly学习英语写作？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方法/如何学习英语？/如何使用Grammarly学习英语写作？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "方法/如何学习英语？/如何使用Grammarly学习英语写作？.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,16 +146,27 @@
       "templates:插入模板": false,
       "canvas:新建白板": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "command-palette:打开命令面板": true,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "command-palette:打开命令面板": true
     }
   },
-  "active": "cd2a88b88f6b0c8a",
+  "active": "f2e151d45904aeb9",
   "lastOpenFiles": [
+    "方法/如何学习英语？/如何使用LanguageReactor在视频在中学习英文？.md",
+    "方法/如何学习英语？/attachments/Pasted image 20230519230306.png",
+    "方法/如何学习英语？/attachments",
     "任务看板.md",
+    "书籍/d2l读书笔记/《d2l》第二章-预备知识.md",
+    "课程/CS61A-Berkeley",
+    "书籍/d2l读书笔记/《d2l》环境安装.md",
+    "书籍/d2l读书笔记/《d2l》引言.md",
+    "书籍/An Excursion through Elementary Mathmatics/AEtEM_vol1-notes.md",
+    "课程/Cloud_Computing-HCIA.md",
+    "方法/如何使用vim？.md",
+    "博文/简明 Vim 练级攻略.md",
+    "方法/如何构建笔记系统？/如何构建以obsidian为核心的笔记系统？.md",
     "方法/如何学习英语？/如何使用Grammarly学习英语写作？.md",
     "未命名.md",
-    "方法/如何学习英语？/如何使用LanguageReactor在视频在中学习英文？.md",
     "方法/如何学习英语？/如何使用Quicker+saladict实现聚合翻译？.md",
     "方法/如何学习英语？",
     "方法/如何构建笔记系统？/如何使用cubox收藏网页内容？.md",
@@ -175,13 +177,11 @@
     "方法/如何构建笔记系统？/attachments/Pasted image 20230517200035.png",
     "方法/如何构建笔记系统？/attachments/Pasted image 20230517195932.png",
     "方法/如何构建工作学习流？/如何在obsidian中构建任务流？.md",
-    "书籍/An Excursion through Elementary Mathmatics/AEtEM_vol1-notes.md",
     "方法/如何构建笔记系统？/attachments/Pasted image 20230517122244.png",
     "方法/如何构建笔记系统？/attachments/Pasted image 20230517121937.png",
     "方法/如何构建笔记系统？/attachments/Pasted image 20230517121449.png",
     "方法/如何构建笔记系统？/attachments/Pasted image 20230517121319.png",
     "方法/如何构建笔记系统？/attachments/Pasted image 20230517121250.png",
-    "方法/如何构建笔记系统？/如何构建以obsidian为核心的笔记系统？.md",
     "方法/如何构建工作学习流？/如何构建工作学习流？.md",
     "方法/如何构建工作学习流？/如何为自己安排任务？.pdf",
     "书籍/An Excursion through Elementary Mathmatics/attachments/An Excursion through Elementary Mathematics, Volume I Real Numbers and Functions.pdf",
@@ -191,22 +191,12 @@
     "书籍/An Excursion through Elementary Mathmatics",
     "书籍/未命名.md",
     "方法/如何构建工作学习流？/attachments/Pasted image 20230516234224.png",
-    "方法/如何构建工作学习流？/attachments",
     "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md",
     "归档/windows装机设置.md",
     "清单/英语词根.md",
     "归档/英语词根.md",
     "时记/2023/2023-05/2023-05-01.md",
-    "时记/2023/2023-05/2023-05-15.md",
-    "归档/节拍器.md",
-    "清单/蒋东辰面试问答文档.pdf",
-    "课程/Cloud_Computing-HCIA.md",
-    "归档/工具使用/Typora/ArchLinux设置PicGo+Git+Typora图床.md",
-    "归档/工具使用/GitBook/Github部署.md",
-    "归档/工具使用/GitBook/GitBook安装与使用.md",
-    "归档/工具使用/GitBook/问题收集.md",
     "方法/attachments/Pasted image 20230509101141.png",
-    "方法/attachments/Pasted image 20230509101109.png",
     "方法/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
