@@ -5,7 +5,7 @@
 
 >[[d2l-zh-pytorch-anno#^njhiapei13|我们需要配置一个环境来运行Python、Jupyter Notebook、相关库以及运行本书所需的代码，以快速入⻔并获得动手学习经验。]]
 
-[[如何将pdf整合到obsidian笔记系统中？]]
+[[如何使用annotator将pdf整合到obsidian笔记系统中？]]
 
 ```bash
 conda info -e #查看当前存在哪些环境

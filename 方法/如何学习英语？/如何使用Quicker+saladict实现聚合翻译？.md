@@ -12,6 +12,6 @@
 	![[Pasted image 20230517121937.png]]
 	设置读写权限
 	![[Pasted image 20230517122244.png]]
-5. 在pdf中使用进行划词翻译。每次启动时第一次翻译需要中键+点击沙拉取词，之后可以划词翻译。设置动作为Ctrl+划词翻译，防止与annotator注释冲突[[如何将pdf整合到obsidian笔记系统中？]]
+5. 在pdf中使用进行划词翻译。每次启动时第一次翻译需要中键+点击沙拉取词，之后可以划词翻译。设置动作为Ctrl+划词翻译，防止与annotator注释冲突[[如何使用annotator将pdf整合到obsidian笔记系统中？]]
 	![[Pasted image 20230517195932.png]]
 	![[Pasted image 20230517200035.png]]

@@ -9,7 +9,7 @@
 		{"type":"file","file":"方法/如何整理个人物品？/如何为windows 进行内存清理？.md","id":"7c65822bf7669e4e","x":-1400,"y":680,"width":400,"height":560},
 		{"type":"file","file":"方法/如何整理个人物品？/如何在windows上卸载deepin双系统？.md","id":"e1c71f147f3fce2c","x":-800,"y":1219,"width":720,"height":380},
 		{"type":"file","file":"清单/网络资源清单.md","id":"01db621bfb85ec2b","x":-220,"y":160,"width":400,"height":400},
-		{"type":"file","file":"方法/如何构建笔记系统？/如何将pdf整合到obsidian笔记系统中？.md","id":"44aeb7f1233c3856","x":800,"y":760,"width":400,"height":400}
+		{"type":"file","file":"方法/如何构建笔记系统？/如何使用annotator将pdf整合到obsidian笔记系统中？.md","id":"44aeb7f1233c3856","x":800,"y":760,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"e856badff1e90f5e","fromNode":"f078be0e5ce0e938","fromSide":"left","toNode":"953c047a56802228","toSide":"top"},

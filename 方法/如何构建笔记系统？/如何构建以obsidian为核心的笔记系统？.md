@@ -9,7 +9,8 @@
 		- [[如何使用简悦将网页以MD格式保存到obsidian中？]]
 		- 从浏览器的视频中导出英文字幕到obsidian中便于学习[[如何使用LanguageReactor在视频在中学习英文？]]
 	2. 处理pdf信息
-		- [[如何将pdf整合到obsidian笔记系统中？]]
+		- [[如何使用annotator将pdf整合到obsidian笔记系统中？]]
+		- [[如何使用zotero阅读pdf并支持高亮回链？]]
 		- 对于pdf中的英文进行学习[[如何使用Quicker+saladict实现聚合翻译？]]
 2. 输出系统
 	1. 解决笔记卡片命名产生的分类问题[[如何解决笔记系统中的分类问题？]]
