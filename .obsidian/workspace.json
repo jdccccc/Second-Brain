@@ -11,8 +11,12 @@
             "id": "8c1ae781a0d71bb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "方法/如何构建笔记系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "方法/如何构建笔记系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "方法/如何构建笔记系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "方法/如何构建笔记系统？/如何使用zotero阅读pdf并支持高亮回链？.md"
+              }
             }
           }
         ],

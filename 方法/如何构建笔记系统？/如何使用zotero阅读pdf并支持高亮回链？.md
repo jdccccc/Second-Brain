@@ -1,5 +1,7 @@
 #zetora #pdf #obsidian 
 
+# 安装zotero并导入pdf阅读
+
 1. 在官网下载和安装zotero
 2. 在官网注册账号
 3. 在zotero桌面端中登录账号并同步数据
