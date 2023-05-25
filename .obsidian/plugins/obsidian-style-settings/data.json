@@ -1,0 +1,13 @@
+{
+  "Components@@Ribbon-autohide": true,
+  "Components@@nav-header-autohide": true,
+  "Components@@status-bar-autohide": true,
+  "Components@@tab-title-bar-fixed": false,
+  "Components@@tab-autohide": true,
+  "Components@@folder-font-bold": true,
+  "Components@@file-icon-remove": false,
+  "Components@@file-icon-color-select": "file-icon-color-accent",
+  "Components@@outline-enhanced": false,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-adapt"
+}

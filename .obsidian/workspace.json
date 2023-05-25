@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "48ce47878e6929ca",
+        "id": "318711a33c396b5c",
         "type": "tabs",
         "children": [
           {
-            "id": "8c1ae781a0d71bb7",
+            "id": "53875952a86e05c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "方法/如何构建笔记系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方法/如何构建笔记系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方法/如何构建笔记系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "方法/如何构建笔记系统？/如何使用zotero阅读pdf并支持高亮回链？.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,31 +150,45 @@
       "command-palette:打开命令面板": true
     }
   },
-  "active": "8c1ae781a0d71bb7",
+  "active": "53875952a86e05c1",
   "lastOpenFiles": [
+    "方法/如何构建笔记系统？/如何构建笔记输入系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
+    "未命名.md",
+    "方法/如何安装windows10系统？.md",
+    "方法/如何构建工作学习流？/如何构建工作学习流？.md",
+    "方法/如何构建笔记系统？/如何构建笔记输出系统？",
+    "方法/如何构建笔记系统？/如何构建笔记输入系统？",
+    "方法/如何构建笔记系统？/attachments/Pasted image 20230525215508.png",
+    "方法/如何构建笔记系统？/attachments/Pasted image 20230525215351.png",
+    "方法/如何构建笔记系统？/attachments/Pasted image 20230525215313.png",
+    "方法/如何构建笔记系统？/attachments/Pasted image 20230525215037.png",
+    "方法/如何构建笔记系统？/attachments/Pasted image 20230525214907.png",
+    "方法/如何构建笔记系统？/attachments/Pasted image 20230525214757.png",
+    "方法/如何构建笔记系统？/如何构建笔记输入系统？/如何使用cubox收藏网页内容？.md",
+    "方法/如何部署hexo个人博客？/1.软件安装.md",
+    "任务看板.md",
+    "清单/交通规则.md",
+    "清单/attachments/Pasted image 20230525211121.png",
+    "清单/attachments",
+    "清单/蒋东辰面试问答文档.pdf",
+    "方法/如何构建笔记系统？/如何构建笔记输出系统？/如何解决笔记系统中的分类问题？.md",
+    "时记/2022/2022-08/2022-08-01.md",
+    "清单/网络资源清单.md",
+    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
+    "书籍/Grammar in Use/attachments/Pasted image 20230525110321.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230525110156.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230525110135.png",
+    "方法/如何构建笔记系统？/如何构建以obsidian为核心的笔记系统？.md",
+    "课程/CS61A-Berkeley/Chapter1-BuildingAbstractionsWithFunctions.md",
+    "清单/长时间娱乐性活动.md",
     "书籍/d2l读书笔记/《d2l》引言.md",
-    "方法/如何构建笔记系统？/如何使用annotator将pdf整合到obsidian笔记系统中？.md",
+    "方法/如何构建笔记系统？/如何构建笔记输入系统？/如何使用annotator将pdf整合到obsidian笔记系统中？.md",
     "书籍/d2l读书笔记/《d2l》环境安装.md",
     "书籍/d2l读书笔记/d2l-zh-pytorch-anno.md",
     "书籍/d2l读书笔记/《d2l》第二章-预备知识.md",
-    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
     "书籍/Grammar in Use/Grammar_inUse-anno.md",
-    "书籍/Grammar in Use/attachments/Pasted image 20230521121921.png",
-    "方法/如何构建笔记系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
-    "方法/如何构建笔记系统？/attachments/Pasted image 20230523225545.png",
-    "方法/如何构建笔记系统？/attachments/Pasted image 20230523225015.png",
-    "方法/如何构建笔记系统？/attachments/Pasted image 20230523224235.png",
-    "方法/如何构建笔记系统？/如何构建以obsidian为核心的笔记系统？.md",
-    "任务看板.md",
-    "课程/CS61A-Berkeley/Chapter1-BuildingAbstractionsWithFunctions.md",
     "课程/CS61A-Berkeley/Chapter2-.md",
-    "书籍/Grammar in Use/attachments/Pasted image 20230523103512.png",
     "README.md",
-    "书籍/Grammar in Use/attachments/Pasted image 20230522225045.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230522223804.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230522214520.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230522214355.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230521193015.png",
     "书籍/Grammar in Use/attachments",
     "书籍/Grammar in Use",
     "书籍/Grammar in Use/attachments/Basic Grammar in Use.pdf",
@@ -191,21 +197,7 @@
     "课程/CS61A-Berkeley",
     "书籍/An Excursion through Elementary Mathmatics/AEtEM_vol1-notes.md",
     "课程/Cloud_Computing-HCIA.md",
-    "方法/如何使用vim？.md",
-    "博文/简明 Vim 练级攻略.md",
-    "方法/如何学习英语？/如何使用Grammarly学习英语写作？.md",
-    "未命名.md",
-    "方法/如何学习英语？/如何使用Quicker+saladict实现聚合翻译？.md",
     "方法/如何学习英语？",
-    "方法/如何构建笔记系统？/如何使用cubox收藏网页内容？.md",
-    "时记/2023/2023-05/2023-05-18.md",
-    "方法/如何整理个人物品？/如何整理个人物品？.md",
-    "课程/英语-chatGPT/1_Basic_Sentence_Structrue.md",
-    "课程/英语-chatGPT",
-    "方法/如何构建工作学习流？/如何在obsidian中构建任务流？.md",
-    "方法/如何构建工作学习流？/如何为自己安排任务？.pdf",
-    "书籍/An Excursion through Elementary Mathmatics/attachments/An Excursion through Elementary Mathematics, Volume I Real Numbers and Functions.pdf",
-    "书籍/An Excursion through Elementary Mathmatics/attachments/An Excursion through Elementary Mathematics, Volume II Euclidean Geometry.pdf",
     "方法/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"

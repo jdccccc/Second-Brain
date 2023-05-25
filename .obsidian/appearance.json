@@ -2,6 +2,10 @@
   "accentColor": "#7549a2",
   "translucency": false,
   "theme": "moonstone",
-  "cssTheme": "Typewriter",
-  "nativeMenus": false
+  "cssTheme": "Border",
+  "nativeMenus": false,
+  "baseFontSize": 17,
+  "interfaceFontFamily": "Consolas,等线",
+  "monospaceFontFamily": "Consolas",
+  "textFontFamily": "Consolas,宋体"
 }

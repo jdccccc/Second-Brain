@@ -35,3 +35,19 @@
 - am/is/are + -ing = somthing is happening now.
 
 # Unit4 are you doing(present continuous question)
+![[Pasted image 20230525102726.png]]
+![[Pasted image 20230525103128.png]]
+![[Pasted image 20230525103200.png]]
+
+- the subject+-ing is similar to the predicative.But predivative commonly consists of n. or pron and -ing means verb. .
+- 一般疑问句问“yes or no”.It is a question for certainty.But 特殊疑问句 is a question for some detail.一般疑问句将助动词或者系动词提前。特殊疑问句首先将原句中需要询问的部分用特殊疑问词替代，然后将替换后的句子改写成一般疑问句，最后将特殊疑问词放到句首。
+
+# Unit5 I do/work/like(simple present)
+![[Pasted image 20230525110135.png]]
+![[Pasted image 20230525110156.png]]
+
+- We use simple present for things that are true in general, or for things that happens sometimes or all the time.
+
+![[Pasted image 20230525110321.png]]
+
+# Unit6
