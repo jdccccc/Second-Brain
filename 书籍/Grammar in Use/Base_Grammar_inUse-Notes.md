@@ -50,4 +50,19 @@
 
 ![[Pasted image 20230525110321.png]]
 
-# Unit6
+# Unit6 I don't(simple present negative)
+The simple present negative is **don't/dosen't + verb**.
+
+![[Pasted image 20230526115521.png]]
+
+- I ... a lot.
+- I don't ... very often.
+- I never ... .
+
+# Unit7 Do you ... ? (simple present questions)
+
+![[Pasted image 20230527104747.png]]
+![[Pasted image 20230527105051.png]]
+![[Pasted image 20230527105836.png]]
+
+# Unit8 

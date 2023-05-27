@@ -4,7 +4,7 @@
   "theme": "moonstone",
   "cssTheme": "Border",
   "nativeMenus": false,
-  "baseFontSize": 17,
+  "baseFontSize": 19,
   "interfaceFontFamily": "Consolas,等线",
   "monospaceFontFamily": "Consolas",
   "textFontFamily": "Consolas,宋体"
