@@ -36,22 +36,5 @@ I use latex for my math notes.
 \int x \, dx
 	$$
 
-|Trigger|Replacement|
-|-|-|
-|sr|^{2}|
-|cb|^{3}|
-|rd|^{ }|
-|\_|\_{ }|
-|sq|\sqrt{ }|
-|x/y Tab|\frac{x}{y}|
-|//|\frac{ }{ }|
-|x1|x_{1}|
-|xdot|\dot{x}|
-|xhat|\hat{x}|
-|xbar|\bar{x}|
-|xvec|\vec{x}|
-|ee|e^{ }|
-|dint|`\\int_{${0:0}}^{${1:\\infty}} $2 \\, d${3:x} $4`|
-|lim|\lim_{ n \to \infty } |
-
+![[LatexSuiteCommonTrigger]]
 3. The bracket behind the lim, sum and frac will automatically add \\left and \\right.It makes the brackets nice-looking. 

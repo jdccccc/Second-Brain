@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8fa32cfbf500e9fe",
+        "id": "468086367266e1aa",
         "type": "tabs",
         "children": [
           {
-            "id": "abd56314dbded8aa",
+            "id": "258d16d30a0482d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/CS61A-Berkeley/CS61A-Lab00-GettingStarted.md",
+                "file": "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/CS61A-Berkeley/CS61A-Lab00-GettingStarted.md",
+                "file": "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/CS61A-Berkeley/CS61A-Lab00-GettingStarted.md",
+                "file": "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/CS61A-Berkeley/CS61A-Lab00-GettingStarted.md"
+                "file": "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md"
               }
             }
           }
@@ -155,14 +156,35 @@
       "canvas:新建白板": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "command-palette:打开命令面板": true
+      "command-palette:打开命令面板": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abd56314dbded8aa",
+  "active": "258d16d30a0482d0",
   "lastOpenFiles": [
+    "课程/Mathmatics/数学分析-史一蓬/数学分析-LEC01-集合和函数.md",
+    "LatexSuiteCommonTrigger.md",
+    "images/image-20210713140157030.png.md",
+    "images",
+    "latex.md",
+    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记系统？.excalidraw.md",
+    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记系统？.canvas",
+    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建以obsidian为核心的笔记系统？.md",
+    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何使用latex记录数学学习笔记？.md",
+    "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
+    "课程/Mathmatics/数学分析-史一蓬",
+    "课程/Mathmatics",
+    "课程/ComputerScience",
+    "课程/ComputerScience/CS61A-Berkeley/CS61A-Lab00-GettingStarted.md",
+    "课程/ComputerScience/Cloud_Computing-HCIA.md",
+    "images/image-20210712154600335.png.md",
+    "images/image-20210713110032673.png.md",
+    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
+    "书籍/Grammar in Use/attachments/Pasted image 20230528172339.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230528163427.png",
+    "任务看板.md",
+    "博文/Python/conda 与 pip 及 conda 的一些常用操作.md",
     "方法/如何使用计算机编程技术？/如何使用VScode？/如何使用vscode？.md",
-    "课程/CS61A-Berkeley/CS61A-Lab00-GettingStarted.md",
-    "课程/CS61A-Berkeley/Chapter1-BuildingAbstractionsWithFunctions.md",
     "方法/如何使用计算机编程技术？/如何使用VScode？/如何使用vscode连接本地Ubuntu虚拟机进行开发？.md",
     "方法/如何使用计算机编程技术？/如何使用VScode？/attachments/Pasted image 20230527144548.png",
     "方法/如何使用计算机编程技术？/如何使用VScode？/attachments/Pasted image 20230527142855.png",
@@ -172,40 +194,21 @@
     "方法/如何使用计算机编程技术？/如何使用VScode？/如何使用vscode的workplace？.md",
     "方法/如何使用计算机编程技术？/如何使用VScode？",
     "方法/如何使用计算机编程技术？",
-    "任务看板.md",
-    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
     "书籍/Grammar in Use/attachments/Pasted image 20230527105836.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230527105051.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230527104747.png",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何使用latex记录数学学习笔记？.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何在obsidian中画图？.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何使用WPS完成一篇word格式的本科毕业论文？.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何使用vim？.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何解决笔记系统中的分类问题？.md",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建以obsidian为核心的笔记系统？.md",
     "书籍/Grammar in Use/attachments/Pasted image 20230526115521.png",
     "清单/交通规则.md",
     "README.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输入系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
     "未命名.md",
-    "方法/如何使用计算机编程技术？/如何安装windows10系统？.md",
-    "方法/如何构建工作学习流？/如何构建工作学习流？.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输入系统？",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/attachments/Pasted image 20230525215508.png",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/attachments/Pasted image 20230525215351.png",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输入系统？/如何使用cubox收藏网页内容？.md",
-    "方法/如何构建工作学习流？/如何部署hexo个人博客？/1.软件安装.md",
     "清单/attachments",
-    "清单/蒋东辰面试问答文档.pdf",
-    "时记/2022/2022-08/2022-08-01.md",
-    "清单/网络资源清单.md",
-    "清单/长时间娱乐性活动.md",
-    "书籍/d2l读书笔记/《d2l》引言.md",
-    "书籍/Grammar in Use/attachments",
-    "书籍/Grammar in Use",
-    "书籍/Grammar in Use/attachments/Basic Grammar in Use.pdf",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
   ]

@@ -65,4 +65,13 @@ The simple present negative is **don't/dosen't + verb**.
 ![[Pasted image 20230527105051.png]]
 ![[Pasted image 20230527105836.png]]
 
-# Unit8 
+# Unit8 I am doing(present continuous) and I do(simple present)
+
+- Present continuous = now.
+- Simple present = in general, all the time, or sometimes.
+
+![[Pasted image 20230528163427.png]]
+- These verbs all represents mental activities.Mental activities generally form and exist over a period of time. 
+
+![[Pasted image 20230528172339.png]]
+
