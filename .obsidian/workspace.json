@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "d4f0163679542e4f",
@@ -162,6 +161,8 @@
   },
   "active": "258d16d30a0482d0",
   "lastOpenFiles": [
+    "清单/蒋东辰面试问答文档.pdf",
+    "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
     "课程/Mathmatics/数学分析-史一蓬/数学分析-LEC01-集合和函数.md",
     "LatexSuiteCommonTrigger.md",
     "images/image-20210713140157030.png.md",
@@ -171,7 +172,6 @@
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建以obsidian为核心的笔记系统？.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何使用latex记录数学学习笔记？.md",
-    "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
     "课程/Mathmatics/数学分析-史一蓬",
     "课程/Mathmatics",
     "课程/ComputerScience",
@@ -205,7 +205,6 @@
     "清单/交通规则.md",
     "README.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输入系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
-    "未命名.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输入系统？",
     "清单/attachments",
