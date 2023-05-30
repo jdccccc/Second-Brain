@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
+                "file": "课程/Economics/小岛经济学-小德/小岛经济学-Lec00-资本的产生.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
+                "file": "课程/Economics/小岛经济学-小德/小岛经济学-Lec00-资本的产生.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
+                "file": "课程/Economics/小岛经济学-小德/小岛经济学-Lec00-资本的产生.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md"
+                "file": "课程/Economics/小岛经济学-小德/小岛经济学-Lec00-资本的产生.md"
               }
             }
           }
@@ -161,10 +161,18 @@
   },
   "active": "258d16d30a0482d0",
   "lastOpenFiles": [
-    "清单/蒋东辰面试问答文档.pdf",
+    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
+    "课程/Economics/小岛经济学-小德/小岛经济学-Lec00-资本的产生.md",
+    "课程/Economics/小岛经济学-小德",
+    "课程/Economics",
+    "书籍/Grammar in Use/attachments/Pasted image 20230529205635.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230529205513.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230529205434.png",
     "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
+    "attachments/call_expression.png",
+    "清单/蒋东辰面试问答文档.pdf",
     "课程/Mathmatics/数学分析-史一蓬/数学分析-LEC01-集合和函数.md",
-    "LatexSuiteCommonTrigger.md",
+    "清单/LatexSuiteCommonTrigger.md",
     "images/image-20210713140157030.png.md",
     "images",
     "latex.md",
@@ -179,7 +187,6 @@
     "课程/ComputerScience/Cloud_Computing-HCIA.md",
     "images/image-20210712154600335.png.md",
     "images/image-20210713110032673.png.md",
-    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
     "书籍/Grammar in Use/attachments/Pasted image 20230528172339.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230528163427.png",
     "任务看板.md",
@@ -194,20 +201,13 @@
     "方法/如何使用计算机编程技术？/如何使用VScode？/如何使用vscode的workplace？.md",
     "方法/如何使用计算机编程技术？/如何使用VScode？",
     "方法/如何使用计算机编程技术？",
-    "书籍/Grammar in Use/attachments/Pasted image 20230527105836.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230527105051.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230527104747.png",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何在obsidian中画图？.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何使用WPS完成一篇word格式的本科毕业论文？.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何使用vim？.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何解决笔记系统中的分类问题？.md",
-    "书籍/Grammar in Use/attachments/Pasted image 20230526115521.png",
     "清单/交通规则.md",
     "README.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输入系统？/如何使用zotero阅读pdf并支持高亮回链？.md",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输入系统？",
-    "清单/attachments",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
   ]

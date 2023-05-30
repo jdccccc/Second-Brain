@@ -75,3 +75,11 @@ The simple present negative is **don't/dosen't + verb**.
 
 ![[Pasted image 20230528172339.png]]
 
+
+# Unit9 I have ... or I've got ...
+![[Pasted image 20230529205434.png]]
+![[Pasted image 20230529205513.png]]
+![[Pasted image 20230529205635.png]]
+
+
+# Unit10 
