@@ -82,4 +82,7 @@ The simple present negative is **don't/dosen't + verb**.
 ![[Pasted image 20230529205635.png]]
 
 
-# Unit10 
+# Unit10 was/were(simple past)
+![[Pasted image 20230530113558.png]]
+![[Pasted image 20230530113817.png]]
+
