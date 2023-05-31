@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "24a7b663d6c48a43",
+        "id": "672d6fe94e38f39a",
         "type": "tabs",
         "children": [
           {
-            "id": "95f8fc3da2bd3879",
+            "id": "499d00eb73d506bf",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "任务看板.md"
+                "file": "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "d4f0163679542e4f",
@@ -92,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "任务看板.md",
+                "file": "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "任务看板.md",
+                "file": "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "任务看板.md"
+                "file": "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md"
               }
             }
           },
@@ -165,10 +168,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95f8fc3da2bd3879",
+  "active": "499d00eb73d506bf",
   "lastOpenFiles": [
-    "时记/本科学习生活总结.md",
     "任务看板.md",
+    "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md",
+    "书籍/d2l读书笔记/d2l-Chapter1-环境安装.md",
+    "书籍/d2l读书笔记/d2l-Chapter0-引言.md",
+    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
+    "书籍/Grammar in Use/attachments/Pasted image 20230531084154.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230531083746.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230531083732.png",
+    "如何整理账单？.md",
+    "时记/本科学习生活总结.md",
     "Template/Day.md",
     "Template/annotator模板.md",
     "方法/如何认知？.md",
@@ -176,9 +187,7 @@
     "时记/2022/2022-09/2022-09-24.md",
     "方法/如何认知？.pdf",
     "方法/如何构建工作学习流？/如何为自己安排任务？.pdf",
-    "书籍/d2l读书笔记/《d2l》第二章-预备知识.md",
     "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
-    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
     "书籍/Grammar in Use/attachments/Pasted image 20230530113817.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230530113558.png",
     "课程/Economics/小岛经济学-小德/小岛经济学-Lec03-存储对于经济发展的重要性.md",
@@ -206,13 +215,7 @@
     "课程/ComputerScience",
     "课程/ComputerScience/CS61A-Berkeley/CS61A-Lab00-GettingStarted.md",
     "课程/ComputerScience/Cloud_Computing-HCIA.md",
-    "images/image-20210712154600335.png.md",
-    "images/image-20210713110032673.png.md",
     "书籍/Grammar in Use/attachments/Pasted image 20230528172339.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230528163427.png",
-    "博文/Python/conda 与 pip 及 conda 的一些常用操作.md",
-    "方法/如何使用计算机编程技术？/如何使用VScode？/attachments/Pasted image 20230527144548.png",
-    "方法/如何使用计算机编程技术？/如何使用VScode？/attachments/Pasted image 20230527142855.png",
     "方法/如何使用计算机编程技术？/如何使用VScode？/attachments",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"

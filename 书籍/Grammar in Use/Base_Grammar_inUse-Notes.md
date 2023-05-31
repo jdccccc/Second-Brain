@@ -86,3 +86,10 @@ The simple present negative is **don't/dosen't + verb**.
 ![[Pasted image 20230530113558.png]]
 ![[Pasted image 20230530113817.png]]
 
+
+# Unit11 worked/got/went,etc.(simple past)
+![[Pasted image 20230531083732.png]]
+![[Pasted image 20230531083746.png]]
+![[Pasted image 20230531084154.png]]
+
+# Unit12
