@@ -65,7 +65,7 @@ The simple present negative is **don't/dosen't + verb**.
 ![[Pasted image 20230527105051.png]]
 ![[Pasted image 20230527105836.png]]
 
-# Unit8 I am doing(present continuous) and I do(simple present)
+# **Unit8 I am doing(present continuous) and I do(simple present)**
 
 - Present continuous = now.
 - Simple present = in general, all the time, or sometimes.
@@ -92,4 +92,19 @@ The simple present negative is **don't/dosen't + verb**.
 ![[Pasted image 20230531083746.png]]
 ![[Pasted image 20230531084154.png]]
 
-# Unit12
+# Unit12 I didn't ... Did you...?(simple past negative and questions)
+![[Pasted image 20230601105054.png]]
+![[Pasted image 20230601105401.png]]
+![[Pasted image 20230601105421.png]]
+![[Pasted image 20230601105430.png]]
+
+
+# Unit13 I was doing(present continuous) 
+![[Pasted image 20230602095212.png]]
+![[Pasted image 20230602095244.png]]
+
+# Unit14 **I was doing(present continuous) and I did(simple past)**
+![[Pasted image 20230602095529.png]]
+![[Pasted image 20230602100134.png]]
+
+# Unit15 

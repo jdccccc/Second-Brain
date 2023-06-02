@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "672d6fe94e38f39a",
+        "id": "a5b76b9f072f8ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "499d00eb73d506bf",
+            "id": "7f02638b1f5831d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md",
+                "file": "方法/如何在Diablo4中获得强力角色？/野蛮人build-Youtube-Rob2628.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md",
+                "file": "方法/如何在Diablo4中获得强力角色？/野蛮人build-Youtube-Rob2628.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md",
+                "file": "方法/如何在Diablo4中获得强力角色？/野蛮人build-Youtube-Rob2628.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md"
+                "file": "方法/如何在Diablo4中获得强力角色？/野蛮人build-Youtube-Rob2628.md"
               }
             }
           },
@@ -168,17 +168,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "499d00eb73d506bf",
+  "active": "7f02638b1f5831d8",
   "lastOpenFiles": [
-    "任务看板.md",
+    "方法/如何在Diablo4中获得强力角色？/attachments/Pasted image 20230602232201.png",
+    "方法/如何在Diablo4中获得强力角色？/attachments",
+    "方法/如何在Diablo4中获得强力角色？/野蛮人build-Youtube-Rob2628.md",
+    "方法/如何在Diablo4中获得强力角色？",
     "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md",
+    "如何使用python pandas模块？.md",
+    "任务看板.md",
+    "方法/如何使用计算机编程技术？/如何使用Ubuntu20-04？/如何解决Ubuntu20-04开机启动过慢的问题？.md",
+    "方法/如何使用计算机编程技术？/如何使用Ubuntu20-04？/如何正确安装VirtualBox增强功能？.md",
+    "方法/如何使用计算机编程技术？/如何使用Ubuntu20-04？/attachments/Pasted image 20230602104714.png",
+    "方法/如何使用计算机编程技术？/如何使用Ubuntu20-04？/attachments",
+    "方法/如何使用计算机编程技术？/如何使用Ubuntu20-04？/如何在VirtualBox上安装Ubuntu20-04？.md",
+    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
+    "书籍/Grammar in Use/attachments/Pasted image 20230602100134.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230602095529.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230602095244.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230602095212.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230601105430.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230601105421.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230601105401.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230601105054.png",
+    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？",
+    "方法/如何使用计算机编程技术？/如何使用Python？/如何配置python？",
+    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用python的with...as语句？.md",
+    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用python的file对象？.md",
+    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用python的open函数？.md",
+    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用python os模块.md",
+    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用Python的import语句？.md",
+    "博文/Python 中 import 的用法.md",
+    "方法/如何整理个人物品？/如何整理账单？.md",
+    "方法/如何整理个人物品？/如何整理个人物品？.md",
     "书籍/d2l读书笔记/d2l-Chapter1-环境安装.md",
     "书籍/d2l读书笔记/d2l-Chapter0-引言.md",
-    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
     "书籍/Grammar in Use/attachments/Pasted image 20230531084154.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230531083746.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230531083732.png",
-    "如何整理账单？.md",
     "时记/本科学习生活总结.md",
     "Template/Day.md",
     "Template/annotator模板.md",
@@ -188,35 +213,10 @@
     "方法/如何认知？.pdf",
     "方法/如何构建工作学习流？/如何为自己安排任务？.pdf",
     "课程/ComputerScience/CS61A-Berkeley/CS61A-Chapter1-BuildingAbstractionsWithFunctions.md",
-    "书籍/Grammar in Use/attachments/Pasted image 20230530113817.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230530113558.png",
-    "课程/Economics/小岛经济学-小德/小岛经济学-Lec03-存储对于经济发展的重要性.md",
-    "课程/Economics/小岛经济学-小德/小岛经济学-Lec02-贷款的诱惑与危机.md",
-    "课程/Economics/小岛经济学-小德/小岛经济学-Lec00-资本的产生.md",
-    "课程/Economics/小岛经济学-小德/小岛经济学-Lec01-金融思维的诞生.md",
     "课程/Economics/小岛经济学-小德",
     "课程/Economics",
-    "书籍/Grammar in Use/attachments/Pasted image 20230529205635.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230529205513.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230529205434.png",
-    "attachments/call_expression.png",
     "清单/蒋东辰面试问答文档.pdf",
-    "课程/Mathmatics/数学分析-史一蓬/数学分析-LEC01-集合和函数.md",
-    "清单/LatexSuiteCommonTrigger.md",
-    "images/image-20210713140157030.png.md",
-    "images",
-    "latex.md",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记系统？.excalidraw.md",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记系统？.canvas",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建以obsidian为核心的笔记系统？.md",
-    "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记输出系统？/如何使用latex记录数学学习笔记？.md",
-    "课程/Mathmatics/数学分析-史一蓬",
-    "课程/Mathmatics",
-    "课程/ComputerScience",
-    "课程/ComputerScience/CS61A-Berkeley/CS61A-Lab00-GettingStarted.md",
-    "课程/ComputerScience/Cloud_Computing-HCIA.md",
-    "书籍/Grammar in Use/attachments/Pasted image 20230528172339.png",
-    "方法/如何使用计算机编程技术？/如何使用VScode？/attachments",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
   ]
