@@ -107,4 +107,128 @@ The simple present negative is **don't/dosen't + verb**.
 ![[Pasted image 20230602095529.png]]
 ![[Pasted image 20230602100134.png]]
 
-# Unit15 
+# Unit15 I used to...
+![[Pasted image 20230604090047.png]]
+- 一般现在时站在宏观的时间长度上，不区分过去现在和将来，指的是经常发生的或者有时发生的或者客观真理的事情。
+- 一般过去时站在现在的视角上，描述过去已经发生过的事情。（=I used to）
+- 现在完成时站在现在的视角上，强调过去发生的事情和现在的联系，描述的是现在的状态。（have未变型）
+- 现在进行时站在现在的视角上，描述现在正在发生的事情，未结束的事情。
+- 过去进行时站在现在的视角上，描述过去正在发生的事情，过去某个时刻未结束的事情。
+
+- 一般态下的事情都是作为一个整体或者一个事件点来看待的。
+- 而进行态下的事情都是作为一个未结束的过程中的参与者来看待的。
+![[Pasted image 20230604091708.png]]
+![[Pasted image 20230604091758.png]]
+
+# Unit16 Have you ...?
+![[Pasted image 20230603081124.png]]
+![[Pasted image 20230603081146.png]]
+![[Pasted image 20230603081232.png]]
+
+- simple present talk about things common or happened sometimes.
+- simple past talk about completed actions.
+- present continuous = now
+- past continuous talk about uncompleted actions.
+
+
+# Unit17 How long have you...?
+![[Pasted image 20230604092001.png]]
+![[Pasted image 20230604092102.png]]
+
+- 一般现在时：她现在在在巴西，过去的时间内未知，可能在可能不在。
+- 一般完成时，她过去的某个特定时间到现在都在巴西，描述了一个连贯的状态。
+	- 如果是gone，表示她过去的时间在巴西，现在不在了，也是一个连贯的状态。
+# Unit18 for since ago
+We use for and since to say `how long`.
+![[Pasted image 20230605074442.png]]
+
+ago = before now
+![[Pasted image 20230605080150.png]]
+
+# **Unit19 I have done(present perfect) and I did(past)**
+![[Pasted image 20230606105046.png]]
+![[Pasted image 20230606105409.png]]
+![[Pasted image 20230606105626.png]]
+![[Pasted image 20230606105756.png]]
+
+# Unit20 is done  was done(passive 1)
+![[Pasted image 20230607091901.png]]
+![[Pasted image 20230607091956.png]]
+![[Pasted image 20230607092030.png]]
+# Unit21 is being done  has been done(passive 2)
+![[Pasted image 20230608102732.png]]
+![[Pasted image 20230608102720.png]]
+
+# Unit22 be/have/do in present and past tenses
+![[Pasted image 20230609074928.png]]
+![[Pasted image 20230609075009.png]]
+![[Pasted image 20230609075040.png]]
+![[Pasted image 20230609075148.png]]
+
+# Unit23 regular and irregular verbs
+
+![[Pasted image 20230610093907.png]]
+![[Pasted image 20230610093920.png]]
+
+# Unit24 What are you doing tomorrow?
+![[Pasted image 20230611091110.png]]
+![[Pasted image 20230611091320.png]]
+![[Pasted image 20230611091703.png]]
+
+# Unit25 I'm going to ...
+![[Pasted image 20230612094425.png]]
+![[Pasted image 20230612094449.png]]
+![[Pasted image 20230612094527.png]]
+
+# Unit26 will
+![[Pasted image 20230613053234.png]]
+![[Pasted image 20230613054414.png]]
+![[Pasted image 20230613055408.png]]
+![[Pasted image 20230613055531.png]]
+
+# Unit27 might
+![[Pasted image 20230615101919.png]]
+![[Pasted image 20230615102039.png]]
+
+# Unit28 can and could
+![[Pasted image 20230615102628.png]]
+![[Pasted image 20230615102642.png]]
+
+# Unit29 must
+![[Pasted image 20230616161537.png]]
+![[Pasted image 20230616161733.png]]
+![[Pasted image 20230616162131.png]]
+
+# Unit30 should
+![[Pasted image 20230622072614.png]]
+![[Pasted image 20230622072910.png]]
+![[Pasted image 20230622072928.png]]
+![[Pasted image 20230622073036.png]]
+
+You drive too fast. == You shouldn't drive so fast. 
+
+# Unit31 I have to ...
+ ![[Pasted image 20230624104416.png]]
+ ![[Pasted image 20230624104435.png]]
+ ![[Pasted image 20230624104446.png]]
+# Unit32 Would you like ...? I'd like ...
+![[Pasted image 20230625082239.png]]
+![[Pasted image 20230625082333.png]]
+![[Pasted image 20230625083020.png]]
+
+- I will do sth. =Now I offer doing sth. = I decide to do sth now.
+- I might do sth. = It is possible that I will do sth.
+- I can do sth = It is possible for me to do sth.
+- I must do sth = It is nessecary for me to do sth.
+- You must not do sth = don't do sth
+- She must be ... = It is clear that she is ...
+- You should do sth = I think it is a good idea that you do sth.
+- You drive too fast. == You shouldn't drive so fast.
+- I have to do sth. = It is nessecary for me to do sth. = I am obliged to do sth. = I must do sth.
+- I'd like sth/to do sth.= I want sth/to do sth.
+
+- Might I do sth? = May I do sth? = Can I do sth? = Is it OK to do sth?
+- Should we do sth? = Do you think it is a good idea to do sth?
+- Do you have to do sth?
+- Would you like sth/to do sth? = Do you want sth/ to do sth?
+# Unit33 I'd rather ...

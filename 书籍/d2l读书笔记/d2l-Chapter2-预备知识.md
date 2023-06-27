@@ -246,3 +246,104 @@ print(inputs)
 ```
 # 线性代数
 ## 标量
+标量与标量函数--[[数学分析-LEC01-集合和函数]]
+
+标量由只有一个元素的张量表示。
+
+```python
+import torch 
+x = torch.tensor(3.0) 
+y = torch.tensor(2.0) 
+x + y, x * y, x / y, x**y
+```
+`(tensor(5.), tensor(6.), tensor(1.5000), tensor(9.))`
+
+## 向量
+向量可以被视为**标量值组成的列表**。这些标量值被称为向量的元素（element）或分量（component）。
+
+通过一维张量表示向量。
+
+$$
+\mathbf{x} = \left[ \begin{align}
+x_{1} \\
+x_{2} \\
+\vdots \\
+x_{n} 
+\end{align}\right] 
+$$
+
+```python
+x = torch.arange(4) 
+x
+```
+
+`tensor([0, 1, 2, 3])`
+
+
+```python
+len(x)
+```
+`4`
+
+```python
+x.shape
+```
+`torch.Size([4])`
+形状（shape）是一个元素组，列出了张量沿每个轴的⻓度（维数）。
+
+
+向量或轴的维度被用来表示向量或轴的⻓度，即向量或轴的元素数量。然而，张 量的维度用来表示张量具有的轴数。在这个意义上，张量的某个轴的维数就是这个轴的⻓度。
+
+## 矩阵
+矩阵将向量从一阶推广到二阶。
+
+$$
+\mathbf{A}=\begin{bmatrix}
+a_{11} & a_{12} & \dots & a_{1n} \\
+a_{21} & a_{22} & \dots & a_{2n} \\
+\vdots & \vdots & \ddots & \vdots \\
+a_{m1} & a_{m2} & \dots & a_{mn}
+\end{bmatrix}
+$$
+
+```python
+A = torch.arange(20).reshape(5, 4) 
+A
+```
+```python
+tensor([[ 0, 1, 2, 3], 
+		[ 4, 5, 6, 7], 
+		[ 8, 9, 10, 11], 
+		[12, 13, 14, 15], 
+		[16, 17, 18, 19]])
+```
+
+当我们交换矩阵的行和列时，结果称为矩阵的转置（transpose）。
+$$
+A^T=\begin{bmatrix} 
+ a_{11} & a_{12} & \dots & a_{1m} 
+ \\ a_{21} & a_{22} & \dots & a_{2m} 
+ \\ \vdots & \vdots & \ddots & \vdots 
+ \\ a_{ n1} & a_{ n2} & \dots & a_{mn } 
+ \end{bmatrix}
+$$
+
+在代码中访问矩阵的转置:
+```python
+>>>A.T 
+tensor([[ 0, 4, 8, 12, 16], 
+		[ 1, 5, 9, 13, 17], 
+		[ 2, 6, 10, 14, 18], 
+		[ 3, 7, 11, 15, 19]])
+```
+
+对称矩阵:$\mathbf{B}=\mathbf{B}^T$
+```python
+>>>B = torch.tensor([[1, 2, 3], [2, 0, 4], [3, 4, 5]])
+>>>B == B.T
+tensor([[True, True, True], 
+		[True, True, True], 
+		[True, True, True]])
+```
+
+## 
