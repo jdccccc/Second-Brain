@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方法/如何在Diablo4中获得强力角色？/ROB_60M+_Quake视频Notes.md",
+                "file": "方法/如何使用计算机编程技术？/如何安装windows11系统？.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "d4f0163679542e4f",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方法/如何在Diablo4中获得强力角色？/ROB_60M+_Quake视频Notes.md",
+                "file": "方法/如何使用计算机编程技术？/如何安装windows11系统？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方法/如何在Diablo4中获得强力角色？/ROB_60M+_Quake视频Notes.md",
+                "file": "方法/如何使用计算机编程技术？/如何安装windows11系统？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方法/如何在Diablo4中获得强力角色？/ROB_60M+_Quake视频Notes.md"
+                "file": "方法/如何使用计算机编程技术？/如何安装windows11系统？.md"
               }
             }
           },
@@ -169,18 +170,20 @@
   },
   "active": "1ce851af5c4f8b4a",
   "lastOpenFiles": [
-    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
+    "方法/如何使用计算机编程技术？/attachments/Pasted image 20230627113813.png",
+    "方法/如何使用计算机编程技术？/attachments/Pasted image 20230627104314.png",
+    "方法/如何使用计算机编程技术？/attachments/Pasted image 20230627103852.png",
+    "方法/如何使用计算机编程技术？/attachments/Pasted image 20230627103740.png",
+    "方法/如何使用计算机编程技术？/attachments/Pasted image 20230627103619.png",
+    "方法/如何使用计算机编程技术？/attachments",
     "方法/如何在Diablo4中获得强力角色？/ROB_60M+_Quake视频Notes.md",
+    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
     "书籍/Grammar in Use/attachments/Pasted image 20230625083020.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230625082333.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230625082239.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230624104446.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230624104435.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230624104416.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230622073036.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230622072928.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230622072910.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230622072614.png",
     "方法/如何在Diablo4中获得强力角色？/野蛮人84级清图冲层先祖锤build.md",
     "方法/如何在Diablo4中获得强力角色？/暗黑4日常情报收集流程.md",
     "方法/如何在Diablo4中获得强力角色？/野蛮人60级刷世界4build.md",
@@ -209,12 +212,10 @@
     "方法/如何整理个人物品？/如何整理个人物品？.md",
     "书籍/d2l读书笔记/d2l-Chapter1-环境安装.md",
     "书籍/d2l读书笔记/d2l-Chapter0-引言.md",
-    "时记/本科学习生活总结.md",
     "方法/如何认知？.pdf",
     "方法/如何构建工作学习流？/如何为自己安排任务？.pdf",
     "课程/Economics/小岛经济学-小德",
     "课程/Economics",
-    "清单/蒋东辰面试问答文档.pdf",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
