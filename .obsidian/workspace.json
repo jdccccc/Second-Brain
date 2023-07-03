@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6c33c8ce0d7c8ca0",
+        "id": "6e8e74edd33516d8",
         "type": "tabs",
         "children": [
           {
-            "id": "1ce851af5c4f8b4a",
+            "id": "d38124e9cb2fdf50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方法/如何使用计算机编程技术？/如何安装windows11系统？.md",
+                "file": "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "d4f0163679542e4f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方法/如何使用计算机编程技术？/如何安装windows11系统？.md",
+                "file": "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "方法/如何使用计算机编程技术？/如何安装windows11系统？.md",
+                "file": "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方法/如何使用计算机编程技术？/如何安装windows11系统？.md"
+                "file": "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md"
               }
             }
           },
@@ -168,54 +167,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ce851af5c4f8b4a",
+  "active": "d38124e9cb2fdf50",
   "lastOpenFiles": [
+    "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用git插件对于obsidian进行更新？.md",
+    "方法/如何构建工作学习流？/如何在obsidian中构建任务流？.md",
+    "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md",
+    "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用github进行个人文件同步？.md",
+    "方法/如何构建工作学习流？/如何构建工作学习流？.md",
+    "方法/如何构建工作学习流？/如何为自己安排任务？.pdf",
+    "方法/如何整理个人物品？/如何科学上网？.md",
+    "科学.md",
+    "时记/2023/2023-04/2023-04-30.md",
+    "时记/2023/2023-05/2023-05-08.md",
+    "时记/2023/2023-05/2023-05-09.md",
+    "时记/2023/2023-05/2023-05-10.md",
+    "时记/2023/2023-05/2023-05-15.md",
+    "时记/2023/2023-05/2023-05-18.md",
+    "时记/本科学习生活总结.md",
+    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用python pandas模块？.md",
+    "清单/英语词根.md",
+    "清单/网络资源清单.md",
+    "清单/Linux常用shell命令.md",
+    "清单/LatexSuiteCommonTrigger.md",
+    "清单/长时间娱乐性活动.md",
+    "清单/交通规则.md",
+    "清单/键盘账单.md",
+    "方法/如何认知？.md",
+    "方法/如何在Diablo4中获得强力角色？/野蛮人84级清图冲层先祖锤build.md",
+    "方法/如何在Diablo4中获得强力角色？/野蛮人保底威能无雕纹49级build.md",
+    "方法/如何DIY台式机？",
     "方法/如何使用计算机编程技术？/attachments/Pasted image 20230627113813.png",
     "方法/如何使用计算机编程技术？/attachments/Pasted image 20230627104314.png",
     "方法/如何使用计算机编程技术？/attachments/Pasted image 20230627103852.png",
     "方法/如何使用计算机编程技术？/attachments/Pasted image 20230627103740.png",
     "方法/如何使用计算机编程技术？/attachments/Pasted image 20230627103619.png",
     "方法/如何使用计算机编程技术？/attachments",
-    "方法/如何在Diablo4中获得强力角色？/ROB_60M+_Quake视频Notes.md",
-    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
     "书籍/Grammar in Use/attachments/Pasted image 20230625083020.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230625082333.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230625082239.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230624104446.png",
     "书籍/Grammar in Use/attachments/Pasted image 20230624104435.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230624104416.png",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人84级清图冲层先祖锤build.md",
-    "方法/如何在Diablo4中获得强力角色？/暗黑4日常情报收集流程.md",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人60级刷世界4build.md",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人73级速刷世界四梦魇build.md",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人保底威能无雕纹49级build.md",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人游玩流程.md",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人build-Youtube-Rob2628.md",
-    "书籍/d2l读书笔记/d2l-Chapter2-预备知识.md",
     "方法/如何在Diablo4中获得强力角色？/attachments",
     "方法/如何在Diablo4中获得强力角色？",
-    "如何使用python pandas模块？.md",
-    "任务看板.md",
-    "方法/如何使用计算机编程技术？/如何使用Ubuntu20-04？/如何解决Ubuntu20-04开机启动过慢的问题？.md",
-    "方法/如何使用计算机编程技术？/如何使用Ubuntu20-04？/如何正确安装VirtualBox增强功能？.md",
     "方法/如何使用计算机编程技术？/如何使用Ubuntu20-04？/attachments",
-    "方法/如何使用计算机编程技术？/如何使用Ubuntu20-04？/如何在VirtualBox上安装Ubuntu20-04？.md",
     "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？",
     "方法/如何使用计算机编程技术？/如何使用Python？/如何配置python？",
-    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用python的with...as语句？.md",
-    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用python的file对象？.md",
-    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用python的open函数？.md",
-    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用python os模块.md",
-    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？/如何使用Python的import语句？.md",
-    "博文/Python 中 import 的用法.md",
-    "方法/如何整理个人物品？/如何整理账单？.md",
-    "方法/如何整理个人物品？/如何整理个人物品？.md",
-    "书籍/d2l读书笔记/d2l-Chapter1-环境安装.md",
-    "书籍/d2l读书笔记/d2l-Chapter0-引言.md",
     "方法/如何认知？.pdf",
-    "方法/如何构建工作学习流？/如何为自己安排任务？.pdf",
     "课程/Economics/小岛经济学-小德",
-    "课程/Economics",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
