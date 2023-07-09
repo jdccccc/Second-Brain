@@ -240,3 +240,29 @@ You drive too fast. == You shouldn't drive so fast.
 ![[Pasted image 20230704083825.png]]
 ![[Pasted image 20230704084038.png]]
 ![[Pasted image 20230704084118.png]]
+
+Would you like ~= Do you think we should == Should we -- Let's
+Do you want me to == Should I  -- don't
+
+# Unit35 there is  there are
+Before today learning, I have learn simple present, present continuous, simple past, past continuous, present perfect, passive, future, modals, imperative.
+
+Past, present and future give the time when the things we talk about happens.
+Simple, perfect and continuous give the status of these things.
+
+![[Pasted image 20230706094231.png]]
+
+How many players are there on a soccer team?
+There are 11 players on a soccer team.
+
+# Unit36 there was/were  there has/have been  there will be
+![[Pasted image 20230707181112.png]]
+![[Pasted image 20230707181314.png]]
+![[Pasted image 20230707181746.png]]
+
+# Unit37 it
+We use it for time/day/distance/weather.
+
+![[Pasted image 20230708094721.png]]
+![[Pasted image 20230708094823.png]]
+![[Pasted image 20230708094916.png]]

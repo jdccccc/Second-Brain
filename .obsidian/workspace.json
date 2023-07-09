@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a539109ec0300f3a",
+        "id": "63a319d622a9b917",
         "type": "tabs",
         "children": [
           {
-            "id": "c9c43d8dee337476",
+            "id": "ed79f4102a123025",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 292.5,
+    "collapsed": true
   },
   "right": {
     "id": "d4f0163679542e4f",
@@ -145,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,35 +166,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9c43d8dee337476",
+  "active": "ed79f4102a123025",
   "lastOpenFiles": [
-    "时记/2023-07-04.md",
+    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
+    "书籍/Grammar in Use/attachments/Pasted image 20230708094916.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230708094823.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230708094721.png",
+    "方法/如何在Diablo4中获得强力角色？/如何构建德鲁伊BD？/德鲁伊50级开荒BD.md",
+    "方法/如何在Diablo4中获得强力角色？/如何构建德鲁伊BD？",
+    "书籍/Grammar in Use/attachments/Pasted image 20230707181746.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230707181314.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230707181112.png",
+    "书籍/Grammar in Use/attachments/Pasted image 20230706094231.png",
+    "方法/如何在Diablo4中获得强力角色？/如何构建野蛮人BD？",
+    "方法/如何在Diablo4中获得强力角色？/如何构建野蛮人BD？/野蛮人49级保底威能无雕纹build.md",
+    "方法/如何在Diablo4中获得强力角色？/如何构建野蛮人BD？/野蛮人100层游泳旋风斩BD.md",
+    "任务看板.md",
+    "时记/2023/2023-07/2023-07-04.md",
     "清单/长时间娱乐性活动.md",
     "时记/2023/2023-07",
     "时记/attachments/Pasted image 20230704104155.png",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人保底威能无雕纹49级build.md",
     "时记/attachments/Pasted image 20230704112225.png",
     "时记/attachments/Pasted image 20230704111933.png",
-    "时记/attachments/Pasted image 20230704111832.png",
-    "时记/attachments/Pasted image 20230704111751.png",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人84级清图冲层先祖锤build.md",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人60级刷世界4build.md",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人73级速刷世界四梦魇build.md",
-    "任务看板.md",
-    "书籍/Grammar in Use/Base_Grammar_inUse-Notes.md",
-    "书籍/Grammar in Use/attachments/Pasted image 20230704084118.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230704084038.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230704083825.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230703224117.png",
-    "书籍/Grammar in Use/attachments/Pasted image 20230703223948.png",
+    "方法/如何在Diablo4中获得强力角色？/如何构建野蛮人BD？/野蛮人84级清图冲层先祖锤build.md",
+    "方法/如何在Diablo4中获得强力角色？/如何构建野蛮人BD？/野蛮人60级刷世界4build.md",
+    "方法/如何在Diablo4中获得强力角色？/如何构建野蛮人BD？/野蛮人73级速刷世界四梦魇build.md",
     "方法/如何构建工作学习流？/如何在obsidian中构建任务流？.md",
     "Excalidraw/Drawing 2023-07-03 18.20.42.excalidraw.md",
     "Excalidraw",
     "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用OBgit在新电脑同步老OB库？.md",
     "方法/如何在Diablo4中获得强力角色？/暗黑4日常情报收集流程.md",
-    "方法/如何在Diablo4中获得强力角色？/ROB_60M+_Quake视频Notes.md",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人build-Youtube-Rob2628.md",
-    "方法/如何在Diablo4中获得强力角色？/野蛮人游玩流程.md",
+    "方法/如何在Diablo4中获得强力角色？/如何构建野蛮人BD？/ROB_60M+_Quake视频Notes.md",
+    "方法/如何在Diablo4中获得强力角色？/如何构建野蛮人BD？/野蛮人build-Youtube-Rob2628.md",
+    "方法/如何在Diablo4中获得强力角色？/如何构建野蛮人BD？/野蛮人游玩流程.md",
     "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用git上传和更新库？.md",
     "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用git插件对于obsidian进行更新？.md",
     "方法/如何构建工作学习流？/如何使用github进行个人文件同步？/如何使用github进行个人文件同步？.md",
@@ -203,15 +208,11 @@
     "科学.md",
     "时记/2023/2023-04/2023-04-30.md",
     "时记/2023/2023-05/2023-05-08.md",
-    "时记/2023/2023-05/2023-05-09.md",
-    "时记/2023/2023-05/2023-05-10.md",
     "方法/如何DIY台式机？",
     "方法/如何使用计算机编程技术？/attachments",
     "方法/如何在Diablo4中获得强力角色？/attachments",
     "方法/如何在Diablo4中获得强力角色？",
     "方法/如何使用计算机编程技术？/如何使用Ubuntu20-04？/attachments",
-    "方法/如何使用计算机编程技术？/如何使用Python？/如何使用python编程？",
-    "方法/如何使用计算机编程技术？/如何使用Python？/如何配置python？",
     "方法/如何构建工作学习流？/如何构建笔记系统？/如何构建笔记系统？.canvas",
     "方法/如何整理个人物品？/如何整理个人物品？.canvas",
     "未命名.canvas"
